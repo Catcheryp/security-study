@@ -1,12 +1,18 @@
 # CTF&靶场
 记录 CTF 打怪升级之路....
 
+**很多时候完成任务的压力导致你直接不去开始任务，让自己着手去做往往很重要......**
+
+
+
 ### CTF
 
 - [x] [Bugku](http://ctf.bugku.com/challenges)
 - [x] [南邮 CTF](https://cgctf.nuptsast.com/challenges#Web)
 - [x] [wechall](https://www.wechall.net/challs)
 - [ ] [hackme](https://hackme.inndy.tw/scoreboard/)
+- [ ] [Jarvis OJ](https://www.jarvisoj.com/challenges)
+- [ ] [实验吧](http://www.shiyanbar.com/)
 
 
 
