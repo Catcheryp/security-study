@@ -19,6 +19,8 @@
 ### Web
 
 - [x] [hackburger.ee](https://hackburger.ee/challenge/)
+- [x] [webhacking.kr](http://webhacking.kr/index.php?mode=challenge)
+- [ ] [Solve Me](http://solveme.peng.kr/chall/p/1)
 
 
 
