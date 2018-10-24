@@ -13,6 +13,7 @@
 - [ ] [hackme](https://hackme.inndy.tw/scoreboard/)
 - [ ] [Jarvis OJ](https://www.jarvisoj.com/challenges)
 - [ ] [实验吧](http://www.shiyanbar.com/)
+- [ ] [root-me](https://www.root-me.org/)
 
 
 
@@ -20,7 +21,7 @@
 
 - [x] [hackburger.ee](https://hackburger.ee/challenge/)
 - [x] [webhacking.kr](http://webhacking.kr/index.php?mode=challenge)
-- [ ] [Solve Me](http://solveme.peng.kr/chall/p/1)
+- [x] [Solve Me](http://solveme.peng.kr/chall/p/1)
 
 
 
@@ -32,8 +33,14 @@
 
 ### XSS
 - [x] [prompt(1) to win](http://prompt.ml/0)
+
 - [x] [alert(1) to win](https://alf.nu/alert1)
+
 - [x] [XSS game](https://xss-game.appspot.com/)
+
 - [ ] [Google XSS Game](https://www.xssgame.com/)
+
+- [ ] [XSS Challenges](http://xss-quiz.int21h.jp/)
+
 
 
