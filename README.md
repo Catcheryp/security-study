@@ -86,6 +86,9 @@
 - [Regex 可视化](https://regexper.com/)
 - [Unicode表](https://unicode-table.com/en/#unified-canadian-aboriginal-syllabics)
 
+### 安全工具
+- [jwt-tool](https://github.com/ticarpi/jwt_tool)
+
 
 ## 安全社区
 - [知道创宇](https://paper.seebug.org/)
