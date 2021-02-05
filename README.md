@@ -1,28 +1,36 @@
 ## 安全学习
 
 ### :anger: 目录
-
+* [github](#bulb-github)
 * [CTF](#ctf)
-* [Web](#web)
-* [SQL 注入](#sql-注入)
-* [XSS](#xss)
-    * [渗透测试](#snail-渗透测试)
-* [靶场](#靶场)
-    * [APT研究](#penguin-apt研究)
-    * [教程](#earth_asia-教程)
-    * [维基](#books-维基)
-    * [工具](#hammer-工具)
-* [在线工具](#在线工具)
-* [安全工具](#安全工具)
-    * [安全社区](#house_with_garden-安全社区)
-    * [博客](#page_facing_up-博客)
-* [安全](#安全)
-* [技术](#技术)
-* [Python](#python)
-* [脚踏实地](#脚踏实地)
-* [github](#octocat-github)
+	* [Web](#web)
+	* [SQL 注入](#sql-注入)
+	* [XSS](#xss)
+* [渗透测试](#snail-渗透测试)
+	* [靶场](#靶场)
+* [APT研究](#penguin-apt研究)
+* [教程](#earth_asia-教程)
+* [维基](#books-维基)
+* [工具](#hammer-工具)
+	* [在线工具](#在线工具)
+	* [安全工具](#安全工具)
+* [安全社区](#house_with_garden-安全社区)
+* [博客](#page_facing_up-博客)
+	* [安全](#安全)
+	* [技术](#技术)
+	* [Python](#python)
+	* [脚踏实地](#脚踏实地)
 
 <hr>
+
+
+### :bulb: github
+
+- [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+
+<br>
+
+
 
 ###  :snowman:CTF
 
@@ -52,9 +60,9 @@
 - [ ] [Google XSS Game](https://www.xssgame.com/)
 - [ ] [XSS Challenges](http://xss-quiz.int21h.jp/)
 
-
-
 <br>
+
+
 
 
 ### :snail: 渗透测试
@@ -64,8 +72,6 @@
 - [ ] [Attack Defense](https://attackdefense.com/)
 - [ ] [Hack The Box](https://www.hackthebox.eu/)
 
-
-
 <br>
 
 
@@ -74,6 +80,8 @@
 - [ ] [aptnotes](https://github.com/aptnotes/data)
 - [ ] [APTnotes](https://github.com/kbandla/APTnotes)
 - [ ] [APT_CyberCriminal_Campagin_Collections](https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections)
+
+<br>
 
 
 
@@ -90,8 +98,6 @@
 - [ ] [liveoverflow](http://liveoverflow.com/)
 - [ ] kali 安全牛
 
-
-
 <br>
 
 
@@ -102,8 +108,6 @@
 - [CTF wiki](https://ctf-wiki.github.io/ctf-wiki/)
 - [SQL注入WIKI](http://sqlwiki.radare.cn/#/)
 - [sql_injection](https://websec.ca/kb/sql_injection)
-
-
 
 <br>
 
@@ -189,10 +193,3 @@
 - 勇幸\|Thinking [http://www.ahathinking.com/](http://www.ahathinking.com/)  数据结构与算法、成长
 - 回忆飘如雪 [http://gv7.me/](http://gv7.me/) Web安全、漏洞研究
 
-<br>
-
-
-
-### :octocat: github
-
-- [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
