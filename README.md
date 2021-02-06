@@ -156,16 +156,19 @@
 ### :page_facing_up: ​博客
 
 #### 安全
-- **余弦** [https://evilcos.me/](https://evilcos.me/)
-- **leucosite** [https://leucosite.com/](https://leucosite.com/)
+- **安全小飞侠** [http://avfisher.win/](http://avfisher.win/)
 - **phith0n** [https://www.leavesongs.com](https://www.leavesongs.com)
+- **余弦** [https://evilcos.me/](https://evilcos.me/)
+- **李劼杰** [http://www.lijiejie.com/](http://www.lijiejie.com/)
+- **leucosite** [https://leucosite.com/](https://leucosite.com/)
 - **Chybeta** [https://chybeta.github.io](https://chybeta.github.io)
 - **乘物游心** [https://blog.spoock.com/](https://blog.spoock.com/)
 - **倾旋** [http://payloads.online/](http://payloads.online/)
 - **信安之路** [http://www.myh0st.cn/](http://www.myh0st.cn/)
 - **hackfun** [https://hackfun.org/](https://hackfun.org/)
 - **大老李** [https://laolisafe.com/](https://laolisafe.com/)
-- **detectify labs**[https://labs.detectify.com/category/security/](https://labs.detectify.com/category/security/)
+- **detectify labs** [https://labs.detectify.com/category/security/](https://labs.detectify.com/category/security/)
+- **Project #** [https://projectsharp.org/](https://projectsharp.org/)
 
 #### 技术
 
