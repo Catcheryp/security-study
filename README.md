@@ -2,10 +2,6 @@
 
 ### :anger: 目录
 * [github](#bulb-github)
-* [CTF](#ctf)
-	* [Web](#web)
-	* [SQL 注入](#sql-注入)
-	* [XSS](#xss)
 * [渗透测试](#snail-渗透测试)
 	* [靶场](#靶场)
 * [APT研究](#penguin-apt研究)
@@ -31,40 +27,6 @@
 <br>
 
 
-
-###  :snowman:CTF
-
-**输出writeup，比较好的题目输出到blog**
-
-#### CTF
-- [x] [Bugku](http://ctf.bugku.com/challenges)
-- [x] [南邮 CTF](https://cgctf.nuptsast.com/challenges#Web)
-- [x] [wechall](https://www.wechall.net/challs)
-- [ ] [hackme](https://hackme.inndy.tw/scoreboard/)
-- [ ] [Jarvis OJ](https://www.jarvisoj.com/challenges)
-- [ ] [实验吧](http://www.shiyanbar.com/)
-- [ ] [root-me](https://www.root-me.org/)
-
-#### Web
-- [x] [hackburger.ee](https://hackburger.ee/challenge/)
-- [x] [webhacking.kr](http://webhacking.kr/index.php?mode=challenge)
-- [x] [Solve Me](http://solveme.peng.kr/chall/p/1)
-
-#### SQL 注入
-- [x] [RedTiger's Hackit](http://redtiger.labs.overthewire.org/)
-
-#### XSS
-- [x] [prompt(1) to win](http://prompt.ml/0)
-- [x] [alert(1) to win](https://alf.nu/alert1)
-- [x] [XSS game](https://xss-game.appspot.com/)
-- [ ] [Google XSS Game](https://www.xssgame.com/)
-- [ ] [XSS Challenges](http://xss-quiz.int21h.jp/)
-
-<br>
-
-
-
-
 ### :snail: 渗透测试
 #### 靶场
 
@@ -74,16 +36,12 @@
 
 <br>
 
-
-
 ### :penguin: ​APT研究
 - [ ] [aptnotes](https://github.com/aptnotes/data)
 - [ ] [APTnotes](https://github.com/kbandla/APTnotes)
 - [ ] [APT_CyberCriminal_Campagin_Collections](https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections)
 
 <br>
-
-
 
 
 ###  :earth_asia: ​教程
@@ -99,19 +57,6 @@
 - [ ] kali 安全牛
 
 <br>
-
-
-
-### :books: ​维基
-
-- [梧桐百科](https://tricking.io/)
-- [CTF wiki](https://ctf-wiki.github.io/ctf-wiki/)
-- [SQL注入WIKI](http://sqlwiki.radare.cn/#/)
-- [sql_injection](https://websec.ca/kb/sql_injection)
-
-<br>
-
-
 
 ### :hammer: ​工具
 
@@ -131,8 +76,6 @@
 
 <br>
 
-
-
 ### :house_with_garden: ​安全社区
 
 - [Sec-News](http://wiki.ioin.in/)
@@ -148,10 +91,9 @@
 - [BRUTE XSS](http://brutelogic.com.br/blog/)
 - [NaviSec.it–纳威安全导航](https://navisec.it/)
 - [PHP SECURITY CALENDAR 2018](https://www.ripstech.com/php-security-calendar-2018/)
+- [ 信息安全知识库]( http://www.vipread.com/)
 
 <br>
-
-
 
 ### :page_facing_up: ​博客
 
