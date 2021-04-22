@@ -98,43 +98,44 @@
 ### :page_facing_up: ​博客
 
 #### 安全
-- **安全小飞侠** [http://avfisher.win/](http://avfisher.win/)
-- **phith0n** [https://www.leavesongs.com](https://www.leavesongs.com)
-- **余弦** [https://evilcos.me/](https://evilcos.me/)
-- **李劼杰** [http://www.lijiejie.com/](http://www.lijiejie.com/)
-- **leucosite** [https://leucosite.com/](https://leucosite.com/)
-- **Chybeta** [https://chybeta.github.io](https://chybeta.github.io)
-- **乘物游心** [https://blog.spoock.com/](https://blog.spoock.com/)
-- **倾旋** [http://payloads.online/](http://payloads.online/)
-- **信安之路** [http://www.myh0st.cn/](http://www.myh0st.cn/)
-- **hackfun** [https://hackfun.org/](https://hackfun.org/)
-- **大老李** [https://laolisafe.com/](https://laolisafe.com/)
-- **detectify labs** [https://labs.detectify.com/category/security/](https://labs.detectify.com/category/security/)
-- **Project #** [https://projectsharp.org/](https://projectsharp.org/)
+- [安全小飞侠](http://avfisher.win/)
+- [phith0n](https://www.leavesongs.com)
+- [余弦](https://evilcos.me/)
+- [李劼杰](http://www.lijiejie.com/)
+- [leucosite](https://leucosite.com/)
+- [Chybeta](https://chybeta.github.io)
+- [乘物游心](https://blog.spoock.com/)
+- [倾旋](http://payloads.online/)
+- [信安之路](http://www.myh0st.cn/)
+- [hackfun](https://hackfun.org/)
+- [大老李](https://laolisafe.com/)
+- [detectify labs](https://labs.detectify.com/category/security/)
+- [Project #](https://projectsharp.org/)
 
 #### 技术
 
-- **酷壳** [https://coolshell.cn/](https://coolshell.cn/)
-- **阮一峰** [http://www.ruanyifeng.com](http://www.ruanyifeng.com)
-- **刘未鹏** [http://mindhacks.cn/](http://mindhacks.cn/)
-- **董伟明** [http://www.dongwm.com/](http://www.dongwm.com/)
-- **沈沉舟**[http://scz.617.cn:8/](http://scz.617.cn:8/)
+- [酷壳](https://coolshell.cn/)
+- [阮一峰](http://www.ruanyifeng.com)
+- [刘未鹏](http://mindhacks.cn/)
+- [董伟明](http://www.dongwm.com/)
+- [沈沉舟](http://scz.617.cn:8/)
 
 #### Python 
 - [静觅-崔庆才](https://cuiqingcai.com/)
 
 #### 脚踏实地
-- FoxRoot [http://www.foxroot.cn/](http://www.foxroot.cn/)
-- Sky's blog [http://skysec.top/](http://skysec.top/)
-- p0sec [http://p0sec.net/](http://p0sec.net/)
-- Archimesan [http://archimesan.me/](http://archimesan.me/)  (CTF、前端)
-- Qiqi's Blog [http://codeqi.top/](http://codeqi.top/) CTF
-- Junay [https://delcoding.github.io/](https://delcoding.github.io/) (CTF、Web 安全)
-- F0rmat [https://getpass.cn/](https://getpass.cn/)  代码审计
-- JuH0n [https://www.jianshu.com/u/13c720cf85fc](https://www.jianshu.com/u/13c720cf85fc) (Web安全、PWN)
-- 柳婼 の blog [https://www.liuchuo.net/](https://www.liuchuo.net/) (PAT、LeetCode...)
-- Go0s @ 老 锥 [https://www.bodkin.ren/](https://www.bodkin.ren/) Android 安全
-- skywang [http://wangkuiwu.github.io/](http://wangkuiwu.github.io/) (数据结构与算法、Java)
-- 勇幸\|Thinking [http://www.ahathinking.com/](http://www.ahathinking.com/)  数据结构与算法、成长
-- 回忆飘如雪 [http://gv7.me/](http://gv7.me/) Web安全、漏洞研究
+
+- [FoxRoot ](http://www.foxroot.cn/)
+- [Sky's blog](http://skysec.top/)
+- [p0sec](http://p0sec.net/)
+- [Archimesan](http://archimesan.me/)  (CTF、前端)
+- [Qiqi's Blog](http://codeqi.top/) CTF
+- [Junay](https://delcoding.github.io/) (CTF、Web 安全)
+- [F0rmat](https://getpass.cn/)  代码审计
+- [JuH0n](https://www.jianshu.com/u/13c720cf85fc) (Web安全、PWN)
+- [柳婼 の blog](https://www.liuchuo.net/) (PAT、LeetCode...)
+- [Go0s @ 老 锥 ](https://www.bodkin.ren/) Android 安全
+- [skywang](http://wangkuiwu.github.io/) (数据结构与算法、Java)
+- [勇幸\|Thinking ](http://www.ahathinking.com/)  数据结构与算法、成长
+- [回忆飘如雪](http://gv7.me/) Web安全、漏洞研究
 
