@@ -26,6 +26,9 @@
 
 <br>
 
+### 文章
+- [Awesome-Bugbounty-Writeups](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups)
+
 
 ### :snail: 渗透测试
 #### 靶场
